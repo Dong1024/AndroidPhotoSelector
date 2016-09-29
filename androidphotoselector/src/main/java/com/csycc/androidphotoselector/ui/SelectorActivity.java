@@ -102,7 +102,7 @@ public class SelectorActivity extends Activity {
                     }
                 });
             }
-        }).run();
+        }).start();
     }
 
     private void addCameraItem() {
